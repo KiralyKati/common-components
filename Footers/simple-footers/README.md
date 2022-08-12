@@ -1,0 +1,1 @@
+This is a footer with a company name and 3 navigation button.
